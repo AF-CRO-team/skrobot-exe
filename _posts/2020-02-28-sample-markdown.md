@@ -29,37 +29,10 @@ This is a demo post to show you how to write blog posts with markdown.  I strong
 
 **Here is some bold text**
 
-<style>
-        body {
-            font-family: Arial, sans-serif;
-            display: flex;
-            justify-content: center;
-            align-items: center;
-            height: 100vh;
-            margin: 0;
-            background-color: #f0f0f0;
-        }
-        .button {
-            background-color: #008cba;
-            border: none;
-            color: white;
-            padding: 15px 32px;
-            text-align: center;
-            text-decoration: none;
-            display: inline-block;
-            font-size: 16px;
-            margin: 4px 2px;
-            cursor: pointer;
-            border-radius: 12px;
-            transition: background-color 0.3s;
-        }
-        .button:hover {
-            background-color: #005f5f;
-        }
-    </style>
-</head>
-<body>
-    <button class="button">Click me!</button>
+## Button 1
+<button type="button" onclick="alert('You pressed the button wena!')">Click me!</button>
+## Button 2
+ <a style="background-color: #FF8660; color: white; padding: 15px 25px;" href="/">Ugly Button</a>
 
 
 ## Here is a secondary heading
