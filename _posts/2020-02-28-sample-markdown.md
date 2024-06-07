@@ -35,7 +35,7 @@ This is a demo post to show you how to write blog posts with markdown.  I strong
  <a style="background-color: #FF8660; color: white; padding: 15px 25px;" href="/">Ugly Button</a>
 
 
-## Here is a secondary heading
+## Here is a secondary super heading
 
 [This is a link to a different site](https://deanattali.com/) and [this is a link to a section inside this page](#local-urls).
 
